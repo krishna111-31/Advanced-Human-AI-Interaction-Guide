@@ -65,4 +65,4 @@ Krishna Laxman Hande
 
 MCA Student
 
-Interested in Human-AI Interaction, AI Trust, User Experience (UX), Explainable AI (XAI), and Human-Centered AI.
+Interested in Human-AI Interaction, AI Trust, User Experience (UX)
