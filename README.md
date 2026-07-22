@@ -63,6 +63,6 @@ Google NotebookLM was used as a study and summarization aid while preparing thes
 
 Krishna Laxman Hande
 
-MCA Student
+
 
 Interested in Human-AI Interaction, AI Trust, User Experience (UX)
