@@ -62,6 +62,17 @@ Google NotebookLM was used as a study and summarization aid while preparing thes
 ## Author
 
 Krishna Laxman Hande
+MCA Student | Aspiring Researcher in Human–AI Interaction and Trustworthy AI
+
+**Research Interests**
+
+- Human–AI Interaction (HAI)
+- Trustworthy AI
+- Responsible AI
+- Explainable AI (XAI)
+- AI Ethics
+- Human-Centered AI
+
 
 
 
