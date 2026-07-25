@@ -1,5 +1,3 @@
-# Advanced-Human-AI-Interaction-Guide
-A comprehensive study guide on Human-AI Interaction, AI Trust, Explainable AI (XAI), and User Experience for students and researchers.
 # Advanced Human-AI Interaction Guide
 
 This repository contains my study notes and learning resources on Human-AI Interaction (HAI), AI Trust, Explainable AI (XAI), User Experience (UX), and Human-Centered AI (HCAI).
