@@ -67,7 +67,6 @@ MCA Student | Aspiring Researcher in Human–AI Interaction and Trustworthy AI
 - Human–AI Interaction (HAI)
 - Trustworthy AI
 - Responsible AI
-- Explainable AI (XAI)
 - AI Ethics
 - Human-Centered AI
 
