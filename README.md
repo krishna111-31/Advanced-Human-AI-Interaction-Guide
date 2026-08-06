@@ -9,13 +9,13 @@ The purpose of this repository is to organize my learning and share educational 
 - Human-AI Interaction (HAI)
 - Human-Centered AI (HCAI)
 - AI Trust
-- Explainable AI (XAI)
 - User Experience (UX)
+-  Explainable AI (XAI)
 - Human Psychology in AI
 - Human Oversight (HITL & HOTL)
 - AI Evaluation
-- Trustworthy AI
 - AI Ethics
+- - Trustworthy AI
 
 ## Repository Contents
 
