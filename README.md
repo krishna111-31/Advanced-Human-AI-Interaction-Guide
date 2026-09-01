@@ -4,18 +4,7 @@ This repository contains my study notes and learning resources on Human-AI Inter
 
 The purpose of this repository is to organize my learning and share educational resources with students, researchers, and anyone interested in Human-AI Interaction. The repository will continue to grow as I explore new topics and update my notes.
 
-## Topics Covered
 
-- Human-AI Interaction (HAI)
-- Human-Centered AI (HCAI)
-- AI Trust
-- User Experience (UX)
--  Explainable AI (XAI)
-- Human Psychology in AI
-- Human Oversight (HITL & HOTL)
-- AI Evaluation
-- AI Ethics
-- - Trustworthy AI
 
 ## Repository Contents
 
